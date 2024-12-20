@@ -1,0 +1,14 @@
+[
+    {
+        "room_id": "103",
+        "room_type": "single",
+        "price": "10",
+        "is_available": true
+    },
+    {
+        "room_id": "105",
+        "room_type": "single",
+        "price": "10",
+        "is_available": true
+    }
+]
